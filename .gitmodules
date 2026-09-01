@@ -1,15 +1,15 @@
 [submodule "WhatNot-Username-Parser"]
 	path = WhatNot-Username-Parser
-	url = https://github.com/SaloEater/WhatNot-Username-Parser
+	url = https://github.com/aakselrod85/WhatNot-Username-Parser
 [submodule "Whatnot-Frontend"]
 	path = Whatnot-Frontend
-	url = https://github.com/SaloEater/Whatnot-Frontend
+	url = https://github.com/aakselrod85/Whatnot-Frontend
 [submodule "WhatNot-Webhook-Holder"]
 	path = WhatNot-Webhook-Holder
-	url = https://github.com/SaloEater/WhatNot-Webhook-Holder
+	url = https://github.com/aakselrod85/WhatNot-Webhook-Holder
 [submodule "No-Mod-Livestream"]
 	path = No-Mod-Livestream
-	url = https://github.com/SaloEater/No-Mod-Livestream
+	url = https://github.com/aakselrod85/No-Mod-Livestream
 [submodule "Elgato-Plugin"]
 	path = Elgato-Plugin
-	url = https://github.com/SaloEater/MOB-Elgato-Plugin
+	url = https://github.com/aakselrod85/MOB-Elgato-Plugin
