@@ -13,3 +13,6 @@
 [submodule "Elgato-Plugin"]
 	path = Elgato-Plugin
 	url = https://github.com/aakselrod85/MOB-Elgato-Plugin
+[submodule "mobwebapp"]
+	path = mobwebapp
+	url = https://github.com/aakselrod85/mobwebapp
